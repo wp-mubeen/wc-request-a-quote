@@ -1,0 +1,1032 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Request a Quote for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-07 12:20+0000\n"
+"PO-Revision-Date: 2020-08-08 06:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.1; wp-5.4.2"
+
+#: front/class-afrfq-front.php:1737 front/class-afrfq-front.php:1752
+#: front/class-afrfq-front.php:1783 front/class-afrfq-front.php:1798
+#: front/class-afrfq-front.php:1813 front/class-afrfq-front.php:1829
+#: front/class-afrfq-front.php:1844 front/class-afrfq-front.php:1859
+#: front/class-afrfq-front.php:1875
+msgid " is a required field!"
+msgstr "è un campo obbligatorio!"
+
+#: front/class-afrfq-front.php:1768
+msgid " is invalid!"
+msgstr "è invalido!"
+
+#: ajax_add_to_quote.php:33 front/class-afrfq-front.php:924
+msgid " items in quote"
+msgstr ""
+"\n"
+"articoli in preventivo"
+
+#: ajax_add_to_quote.php:132 front/class-afrfq-front.php:1045
+msgid " View Quote"
+msgstr "Visualizza preventivo"
+
+#: front/class-afrfq-front.php:2666
+msgid " was placed on "
+msgstr ""
+"\n"
+"è stato posizionato"
+
+#: front/class-afrfq-front.php:2664 front/class-afrfq-front.php:2666
+#: front/class-afrfq-front.php:2833
+msgid "#"
+msgstr "#"
+
+#: front/class-afrfq-front.php:2001 front/class-afrfq-front.php:2019
+#: front/class-afrfq-front.php:2037 front/class-afrfq-front.php:2055
+#: front/class-afrfq-front.php:2073 front/class-afrfq-front.php:2091
+#: front/class-afrfq-front.php:2109 front/class-afrfq-front.php:2127
+#: front/class-afrfq-front.php:2145 admin/addify-afrfq-edit-form.php:45
+#: admin/addify-afrfq-edit-form.php:66 admin/addify-afrfq-edit-form.php:90
+#: admin/addify-afrfq-edit-form.php:114 admin/addify-afrfq-edit-form.php:138
+#: admin/addify-afrfq-edit-form.php:161 admin/addify-afrfq-edit-form.php:184
+#: admin/addify-afrfq-edit-form.php:208 admin/addify-afrfq-edit-form.php:232
+msgid ":"
+msgstr ":"
+
+#: front/class-afrfq-front.php:2823
+msgid "Action"
+msgstr "Azione"
+
+#: addify-request-a-quote.php:114 addify-request-a-quote.php:115
+msgid "Add New Rule"
+msgstr "Aggiungi nuova regola"
+
+#. Author of the plugin
+msgid "Addify"
+msgstr "Addify"
+
+#: admin/class-afrfq-admin.php:673
+msgid "Addify Plugin Options"
+msgstr "Opzioni plug-in Addify"
+
+#: admin/class-afrfq-admin.php:692
+msgid "Addify Request for Quote Module Settings"
+msgstr "Aggiungi richiesta di impostazioni modulo preventivo"
+
+#: admin/class-afrfq-admin.php:1434
+msgid "Additional Fields"
+msgstr "Campi aggiuntivi"
+
+#: admin/class-afrfq-admin.php:889
+msgid "Admin/Shop Manager Email"
+msgstr "Email amministratore / responsabile negozio"
+
+#: admin/class-afrfq-admin.php:894
+msgid ""
+"All admin emails that are related to our module will be sent to this email "
+"address. If this email is empty then default admin email address is used. "
+"You can add more than one email addresses separated by comma (,)."
+msgstr ""
+"Tutte le e-mail di amministrazione correlate al nostro modulo verranno "
+"inviate a questo indirizzo e-mail. Se questa e-mail è vuota, viene "
+"utilizzato l'indirizzo e-mail amministratore predefinito. Puoi aggiungere "
+"più di un indirizzo e-mail separato da una virgola (,)."
+
+#: addify-request-a-quote.php:152
+msgid "All Quotes"
+msgstr "Tutte le citazioni"
+
+#: addify-request-a-quote.php:124
+msgid "All Rules"
+msgstr "Tutte le regole"
+
+#: admin/class-afrfq-admin.php:647
+msgid "All Submitted Quotes"
+msgstr "Tutte le citazioni inviate"
+
+#: admin/class-afrfq-admin.php:1336
+msgid ""
+"Allowed file upload types. e.g (png,jpg,txt). Add comma separated, please do "
+"not use dot(.)."
+msgstr ""
+"Tipi di caricamento file consentiti. ad esempio (png, jpg, txt). Aggiungi "
+"una virgola di separazione, non utilizzare il punto (.)."
+
+#: admin/class-afrfq-admin.php:1331
+msgid "Allowed Types"
+msgstr "Tipi consentiti"
+
+#: admin/class-afrfq-admin.php:681
+msgid "Captcha Settings"
+msgstr "Impostazioni captcha"
+
+#: admin/class-afrfq-admin.php:1486
+msgid "Check if you want to make Additional Field 1 field required."
+msgstr "Controlla se vuoi rendere obbligatorio il campo Campo aggiuntivo 1."
+
+#: admin/class-afrfq-admin.php:1573
+msgid "Check if you want to make Additional Field 2 field required."
+msgstr "Controlla se vuoi rendere obbligatorio il campo Campo aggiuntivo 2."
+
+#: admin/class-afrfq-admin.php:1660
+msgid "Check if you want to make Additional Field 3 field required."
+msgstr "Controlla se vuoi rendere obbligatorio il campo Campo aggiuntivo 3."
+
+#: admin/class-afrfq-admin.php:1126
+msgid "Check if you want to make Company field required."
+msgstr "Controlla se vuoi rendere obbligatorio il campo Azienda."
+
+#: admin/class-afrfq-admin.php:1041
+msgid "Check if you want to make Email field required."
+msgstr "Controlla se vuoi rendere obbligatorio il campo Email."
+
+#: admin/class-afrfq-admin.php:1300
+msgid "Check if you want to make File/Image Upload field required."
+msgstr ""
+"Controlla se vuoi rendere obbligatorio il campo Caricamento file / immagini."
+
+#: admin/class-afrfq-admin.php:1398
+msgid "Check if you want to make Message field required."
+msgstr "Controlla se vuoi rendere obbligatorio il campo Messaggio."
+
+#: admin/class-afrfq-admin.php:955
+msgid "Check if you want to make Name field required."
+msgstr "Controlla se vuoi rendere obbligatorio il campo Nome."
+
+#: admin/class-afrfq-admin.php:1212
+msgid "Check if you want to make Phone field required."
+msgstr "Controlla se vuoi rendere obbligatorio il campo Telefono."
+
+#: admin/class-afrfq-admin.php:907 admin/class-afrfq-admin.php:993
+#: admin/class-afrfq-admin.php:1078 admin/class-afrfq-admin.php:1164
+#: admin/class-afrfq-admin.php:1250 admin/class-afrfq-admin.php:1350
+#: admin/class-afrfq-admin.php:1438 admin/class-afrfq-admin.php:1525
+#: admin/class-afrfq-admin.php:1612
+msgid "Click to Expand"
+msgstr "Fai clic per espandere"
+
+#: front/class-afrfq-front.php:2076 admin/addify-afrfq-edit-form.php:139
+msgid "Click to View"
+msgstr "Clicca per vedere"
+
+#: admin/class-afrfq-admin.php:1077
+msgid "Company Field"
+msgstr "Campo dell'azienda"
+
+#: admin/class-afrfq-admin.php:510
+msgid "Custom Button Label"
+msgstr "Etichetta pulsante personalizzata"
+
+#: admin/class-afrfq-admin.php:490
+msgid "Custom Button Link"
+msgstr "Collegamento pulsante personalizzato"
+
+#: admin/class-afrfq-admin.php:678
+msgid "Custom Messages"
+msgstr "Messaggi personalizzati"
+
+#: admin/class-afrfq-admin.php:1824
+msgid "Custom Messages Settings"
+msgstr ""
+"\n"
+"Impostazioni dei messaggi personalizzati"
+
+#: admin/class-afrfq-admin.php:2155
+msgid "Customer Email"
+msgstr "Email del cliente"
+
+#: admin/class-afrfq-admin.php:2154
+msgid "Customer Name"
+msgstr "Nome del cliente"
+
+#: front/class-afrfq-front.php:2822 admin/class-afrfq-admin.php:2156
+msgid "Date"
+msgstr "Data"
+
+#: admin/class-afrfq-admin.php:617
+msgid "Date Published"
+msgstr "Data di pubblicazione"
+
+#: admin/class-afrfq-admin.php:522
+msgid "Display the above label on custom button, e.g \"Request a Quote\""
+msgstr ""
+"Visualizza l'etichetta sopra sul pulsante personalizzato, ad es. \"Richiedi "
+"un preventivo\""
+
+#: admin/class-afrfq-admin.php:451
+msgid "Display the above text when price is hidden, e.g \"Price is hidden\""
+msgstr ""
+"Visualizza il testo sopra quando il prezzo è nascosto, ad es. \"Il prezzo è "
+"nascosto\""
+
+#: addify-request-a-quote.php:116
+msgid "Edit Rule"
+msgstr "Modifica regola"
+
+#: admin/class-afrfq-admin.php:682 admin/class-afrfq-admin.php:1746
+msgid "Editors/Builders Compatibility"
+msgstr ""
+"\n"
+"Compatibilità tra editor / costruttori"
+
+#: admin/class-afrfq-admin.php:1753
+msgid "Elementor Compatibility"
+msgstr ""
+"\n"
+"Compatibilità Elementor"
+
+#: admin/class-afrfq-admin.php:992
+msgid "Email Field"
+msgstr "Abilita campo e-mail"
+
+#: admin/class-afrfq-admin.php:831
+msgid "Email Response Text"
+msgstr ""
+"Testo di risposta e-mail\n"
+
+#: admin/class-afrfq-admin.php:810
+msgid "Email Subject"
+msgstr ""
+"Oggetto dell'email\n"
+
+#: admin/class-afrfq-admin.php:1474
+msgid "Enable Additional Field 1 on the Request a Quote Form."
+msgstr ""
+"Abilita il campo aggiuntivo 1 nel modulo di richiesta di preventivo.\n"
+
+#: admin/class-afrfq-admin.php:1561
+msgid "Enable Additional Field 2 on the Request a Quote Form."
+msgstr ""
+"Abilita il campo aggiuntivo 2 nel modulo di richiesta di preventivo.\n"
+
+#: admin/class-afrfq-admin.php:1648
+msgid "Enable Additional Field 3 on the Request a Quote Form."
+msgstr ""
+"Abilita il campo aggiuntivo 3 nel modulo di richiesta di preventivo.\n"
+
+#: admin/class-afrfq-admin.php:794
+msgid "Enable Ajax add to Quote (Product Page)"
+msgstr "Abilita Ajax Aggiungi al preventivo (Pagina del prodotto)"
+
+#: admin/class-afrfq-admin.php:780
+msgid "Enable Ajax add to Quote (Shop Page)"
+msgstr "Abilita Ajax Aggiungi al preventivo (Pagina del negozio)"
+
+#: admin/class-afrfq-admin.php:1782
+msgid ""
+"Enable another solution if your add to cart is not replaced by plugin Button"
+msgstr ""
+"Abilita un'altra soluzione se il tuo Aggiungi al carrello non è sostituito "
+"dal plugin Button\n"
+
+#: admin/class-afrfq-admin.php:1708
+msgid "Enable Captcha"
+msgstr "Abilita Captcha"
+
+#: admin/class-afrfq-admin.php:1109
+msgid "Enable Company Field"
+msgstr "Abilita campo azienda"
+
+#: admin/class-afrfq-admin.php:1114
+msgid "Enable Company field on the Request a Quote Form."
+msgstr "Abilita il campo Azienda nel modulo Richiedi un preventivo."
+
+#: admin/class-afrfq-admin.php:1765
+msgid "Enable Divi Builder Compatibility"
+msgstr ""
+"Abilita la compatibilità con Divi Builder\n"
+
+#: admin/class-afrfq-admin.php:1770
+msgid "Enable Divi Builder Compatibility."
+msgstr ""
+"Abilita la compatibilità con Divi Builder\n"
+
+#: admin/class-afrfq-admin.php:1758
+msgid "Enable Elementor Compatibility"
+msgstr ""
+"Abilita la compatibilità con Elementor\n"
+
+#: admin/class-afrfq-admin.php:1024
+msgid "Enable Email Field"
+msgstr "Abilita campo e-mail"
+
+#: admin/class-afrfq-admin.php:1029
+msgid "Enable Email field on the Request a Quote Form."
+msgstr "Abilita il campo Email nel modulo Richiedi un preventivo."
+
+#: admin/class-afrfq-admin.php:1469
+msgid "Enable Field 1"
+msgstr "Abilita campo 1"
+
+#: admin/class-afrfq-admin.php:1556
+msgid "Enable Field 2"
+msgstr "Abilita campo 2"
+
+#: admin/class-afrfq-admin.php:1643
+msgid "Enable Field 3"
+msgstr "Abilita campo 3"
+
+#: admin/class-afrfq-admin.php:1283
+msgid "Enable File Upload Field"
+msgstr "Abilita campo caricamento file"
+
+#: admin/class-afrfq-admin.php:1288
+msgid "Enable File/Image Upload field on the Request a Quote Form."
+msgstr ""
+"Abilitare il campo Caricamento file / immagini nel modulo Richiedi un "
+"preventivo."
+
+#: admin/class-afrfq-admin.php:760
+msgid "Enable for Guest"
+msgstr "Abilita per Ospite"
+
+#: admin/class-afrfq-admin.php:1713
+msgid "Enable Google reCaptcha field on the Request a Quote Form."
+msgstr "Abilita il campo Google reCaptcha nel modulo Richiedi un preventivo."
+
+#: admin/class-afrfq-admin.php:1381
+msgid "Enable Message Field"
+msgstr "Abilita campo messaggi"
+
+#: admin/class-afrfq-admin.php:1386
+msgid "Enable Message field on the Request a Quote Form."
+msgstr "Abilita il campo Messaggio nel modulo Richiedi un preventivo."
+
+#: admin/class-afrfq-admin.php:938
+msgid "Enable Name Field"
+msgstr "Abilita campo Nome"
+
+#: admin/class-afrfq-admin.php:943
+msgid "Enable Name field on the Request a Quote Form."
+msgstr "Abilitare il campo Nome nel modulo Richiedi un preventivo."
+
+#: admin/class-afrfq-admin.php:1810
+msgid "Enable offered Price"
+msgstr ""
+"Abilita prezzo offerto\n"
+
+#: admin/class-afrfq-admin.php:1815
+msgid "Enable offered Price and subtotal of offered price of Quote Basket"
+msgstr ""
+"Abilita il prezzo offerto e il totale parziale del prezzo offerto del "
+"carrello delle quotazioni\n"
+
+#: admin/class-afrfq-admin.php:797
+msgid "Enable or Disable ajax add to quote on product page."
+msgstr ""
+"Abilita o disabilita Ajax Aggiungi al preventivo nella pagina del prodotto."
+
+#: admin/class-afrfq-admin.php:783
+msgid "Enable or Disable ajax add to quote on shop page."
+msgstr ""
+"Abilita o disabilita Ajax Aggiungi al preventivo nella pagina del negozio."
+
+#: admin/class-afrfq-admin.php:763
+msgid "Enable or Disable quote for guest users."
+msgstr "Abilita o disabilita il preventivo per gli utenti ospiti."
+
+#: admin/class-afrfq-admin.php:1195
+msgid "Enable Phone Field"
+msgstr "Abilita campo telefono"
+
+#: admin/class-afrfq-admin.php:1200
+msgid "Enable Phone field on the Request a Quote Form."
+msgstr "Abilita il campo Telefono nel modulo Richiedi un preventivo."
+
+#: admin/class-afrfq-admin.php:1798
+msgid "Enable Product Price"
+msgstr ""
+"Abilita prezzo prodotto\n"
+
+#: admin/class-afrfq-admin.php:1803
+msgid "Enable product Price and subtotal of Quote basket"
+msgstr ""
+"Abilita prezzo prodotto e totale parziale del carrello preventivo\n"
+
+#: admin/class-afrfq-admin.php:1777
+msgid "Enable Solution 2"
+msgstr ""
+"Abilita soluzione 2\n"
+
+#: admin/class-afrfq-admin.php:877
+msgid ""
+"Enable this if you want to include a copy of quote details in the email sent "
+"to customer. The quote details will be embedded along the with the above "
+"email body text."
+msgstr ""
+"Abilitare questa opzione se si desidera inviare una richiesta e-mail di "
+"copia al cliente. I dettagli delle quotazioni sono incorporati nel testo e-"
+"mail sopra."
+
+#: admin/class-afrfq-admin.php:863
+msgid ""
+"Enable this if you want to send email to customer after submitting a Quote."
+msgstr ""
+"Abilitalo se desideri inviare un'e-mail al cliente dopo aver inviato un "
+"preventivo.\n"
+
+#: front/class-afrfq-front.php:2405
+msgid "Failed! Unable to process your request."
+msgstr "Non riuscito! Impossibile elaborare la tua richiesta."
+
+#: admin/class-afrfq-admin.php:1437
+msgid "Field 1"
+msgstr "Campo 1"
+
+#: admin/class-afrfq-admin.php:1524
+msgid "Field 2"
+msgstr "Campo 2"
+
+#: admin/class-afrfq-admin.php:1611
+msgid "Field 3"
+msgstr "Campo 3"
+
+#: admin/class-afrfq-admin.php:680 admin/class-afrfq-admin.php:903
+msgid "Fields Settings"
+msgstr "Impostazioni dei campi"
+
+#: admin/class-afrfq-admin.php:1249
+msgid "File/Image Upload Field"
+msgstr "Campo di caricamento file / immagini"
+
+#: admin/class-afrfq-admin.php:677 admin/class-afrfq-admin.php:696
+msgid "General Settings"
+msgstr "impostazioni generali"
+
+#: front/class-afrfq-front.php:2854
+msgid "Go to shop"
+msgstr ""
+"Vai a fare la spesa\n"
+
+#: admin/class-afrfq-admin.php:1701
+msgid "Google reCaptcha Settings"
+msgstr "Impostazioni di Google reCaptcha"
+
+#: front/class-afrfq-front.php:1082
+msgid "has been added to your quote."
+msgstr "è stato aggiunto al tuo preventivo."
+
+#: admin/class-afrfq-admin.php:459
+msgid "Hide Add to Cart Button"
+msgstr "Nascondi il pulsante Aggiungi al carrello"
+
+#: admin/class-afrfq-admin.php:424
+msgid "Hide Price"
+msgstr "Nascondi il prezzo"
+
+#: admin/class-afrfq-admin.php:439
+msgid "Hide Price Text"
+msgstr "Nascondi testo prezzo"
+
+#. Description of the plugin
+msgid ""
+"Hide Product Price on shop and product detail page and add a quote button."
+msgstr ""
+"Nascondi il prezzo del prodotto nella pagina dei dettagli del negozio e del "
+"prodotto e aggiungi un pulsante di preventivo."
+
+#. Author URI of the plugin
+msgid "http://www.addifypro.com/"
+msgstr "http://www.addifypro.com/"
+
+#. URI of the plugin
+msgid "https://woocommerce.com/products/request-a-quote-plugin/"
+msgstr "https://woocommerce.com/products/request-a-quote-plugin/"
+
+#: admin/class-afrfq-admin.php:752
+msgid "Icon and Number of items"
+msgstr ""
+"Icona e numero di elementi\n"
+
+#: admin/class-afrfq-admin.php:874
+msgid "Include Copy of Quote in Email"
+msgstr ""
+"Includi una copia del preventivo nell'e-mail\n"
+
+#: front/class-afrfq-front.php:1902
+msgid "Invalid file type!"
+msgstr "Tipo di file non valido!"
+
+#: front/class-afrfq-front.php:1916
+msgid "Invalid reCaptcha!"
+msgstr "ReCaptcha non valido!"
+
+#: admin/class-afrfq-admin.php:950 admin/class-afrfq-admin.php:1036
+#: admin/class-afrfq-admin.php:1121 admin/class-afrfq-admin.php:1207
+#: admin/class-afrfq-admin.php:1295 admin/class-afrfq-admin.php:1393
+#: admin/class-afrfq-admin.php:1481 admin/class-afrfq-admin.php:1568
+#: admin/class-afrfq-admin.php:1655
+msgid "is Required?"
+msgstr "è obbligatorio?"
+
+#: admin/class-afrfq-admin.php:478
+msgid "Keep Add to Cart and add a new custom button"
+msgstr ""
+"Mantieni Aggiungi al carrello e aggiungi un nuovo pulsante personalizzato"
+
+#: admin/class-afrfq-admin.php:469
+msgid "Keep Add to Cart button and add a new Quote Button"
+msgstr ""
+"Mantieni il pulsante Aggiungi al carrello e aggiungi un nuovo pulsante "
+"Preventivo"
+
+#: admin/class-afrfq-admin.php:974 admin/class-afrfq-admin.php:1060
+#: admin/class-afrfq-admin.php:1145 admin/class-afrfq-admin.php:1231
+#: admin/class-afrfq-admin.php:1319 admin/class-afrfq-admin.php:1417
+#: admin/class-afrfq-admin.php:1505 admin/class-afrfq-admin.php:1592
+#: admin/class-afrfq-admin.php:1679
+msgid "Label"
+msgstr "Etichetta"
+
+#: admin/class-afrfq-admin.php:1510
+msgid "Label of the Additional Field 1 field."
+msgstr ""
+"Etichetta del campo Campo aggiuntivo 1.\n"
+"\t\n"
+
+#: admin/class-afrfq-admin.php:1597
+msgid "Label of the Additional Field 2 field."
+msgstr ""
+"Etichetta del campo Campo aggiuntivo 2.\n"
+"\t\n"
+
+#: admin/class-afrfq-admin.php:1684
+msgid "Label of the Additional Field 3 field."
+msgstr ""
+"Etichetta del campo Campo aggiuntivo 3.\n"
+"\t\n"
+
+#: admin/class-afrfq-admin.php:1150
+msgid "Label of the Company field."
+msgstr "Etichetta del campo Azienda."
+
+#: admin/class-afrfq-admin.php:1065
+msgid "Label of the Email field."
+msgstr "Etichetta del campo Email."
+
+#: admin/class-afrfq-admin.php:1324
+msgid "Label of the File/Image Upload field."
+msgstr "Etichetta del campo Caricamento file / immagine."
+
+#: admin/class-afrfq-admin.php:1422
+msgid "Label of the Message field."
+msgstr "Etichetta del campo Messaggio."
+
+#: admin/class-afrfq-admin.php:979
+msgid "Label of the Name field."
+msgstr "Etichetta del campo Nome."
+
+#: admin/class-afrfq-admin.php:1236
+msgid "Label of the Phone field."
+msgstr "Etichetta del campo Telefono."
+
+#: admin/class-afrfq-admin.php:502
+msgid "Link for custom button e.g \"http://www.example.com\""
+msgstr "Link per pulsante personalizzato, ad es. \"Http://www.example.com\""
+
+#: admin/class-afrfq-admin.php:1349
+msgid "Message Field"
+msgstr "Campo messaggi"
+
+#: admin/class-afrfq-admin.php:906
+msgid "Name Field"
+msgstr "Nome campo"
+
+#: addify-request-a-quote.php:117
+msgid "New Rule"
+msgstr "Nuova regola"
+
+#: admin/class-afrfq-admin.php:429
+msgid "No"
+msgstr "No"
+
+#: ajax_add_to_quote.php:141 front/class-afrfq-front.php:1052
+msgid "No products in quote basket."
+msgstr "Nessun prodotto nel carrello preventivo."
+
+#: front/class-afrfq-front.php:2854
+msgid "No quote has been made yet."
+msgstr "Nessun preventivo è stato ancora fatto."
+
+#: addify-request-a-quote.php:121
+msgid "No rule found"
+msgstr "Nessuna regola trovata"
+
+#: addify-request-a-quote.php:122
+msgid "No rule found in trash"
+msgstr "Nessuna regola trovata nel cestino"
+
+#: front/addify_quote_request_page.php:88
+msgid "Offered Price"
+msgstr ""
+"Prezzo offerto\n"
+
+#: admin/class-afrfq-admin.php:1163
+msgid "Phone Field"
+msgstr "Campo telefonico"
+
+#: front/addify_quote_request_page.php:75
+#: front/addify_quote_request_page.php:206 front/class-afrfq-front.php:2168
+#: front/class-afrfq-front.php:2674 admin/addify-afrfq-edit-form.php:247
+msgid "Product"
+msgstr "Prodotto"
+
+#: admin/class-afrfq-admin.php:1852
+msgid "Product Added to Quote Success Message"
+msgstr ""
+"Prodotto aggiunto al messaggio di successo preventivo\n"
+
+#: front/addify_quote_request_page.php:80
+msgid "Product Price"
+msgstr ""
+"Prezzo del prodotto\n"
+
+#: admin/addify-afrfq-edit-form.php:248
+msgid "Product SKU"
+msgstr "Prodotto SKU"
+
+#: admin/class-afrfq-admin.php:108
+msgid ""
+"Provide value from high priority 1 to Low priority 10. If more than one rule "
+"are applied on same item rule with high priority will be applied."
+msgstr ""
+"Fornire il valore da priorità alta 1 a priorità bassa 10. Se vengono "
+"applicate più regole sulla stessa voce, verrà applicata la regola con "
+"priorità alta.\n"
+"\t\n"
+
+#: front/addify_quote_request_page.php:94
+#: front/addify_quote_request_page.php:283 front/class-afrfq-front.php:2170
+#: front/class-afrfq-front.php:2676 admin/addify-afrfq-edit-form.php:249
+msgid "Quantity"
+msgstr "Quantità"
+
+#: front/class-afrfq-front.php:2821
+msgid "Quote"
+msgstr "Preventivo"
+
+#: front/class-afrfq-front.php:2664 front/class-afrfq-front.php:2666
+msgid "Quote "
+msgstr "Preventivo"
+
+#: admin/class-afrfq-admin.php:2153
+msgid "Quote #"
+msgstr "Preventivo #"
+
+#: admin/addify-afrfq-edit-form.php:25
+msgid "Quote #:"
+msgstr "Preventivo #:"
+
+#: admin/class-afrfq-admin.php:703
+msgid "Quote Basket Placement"
+msgstr "Posizionamento del carrello preventivi"
+
+#: admin/class-afrfq-admin.php:741
+msgid "Quote Basket Style"
+msgstr ""
+"Citare lo stile del cestino\n"
+
+#: admin/class-afrfq-admin.php:749
+msgid "Quote Basket with Dropdown"
+msgstr ""
+"Cestino delle quotazioni con menu a discesa\n"
+
+#: front/class-afrfq-front.php:2668
+msgid "Quote Details"
+msgstr "Dettagli preventivo"
+
+#: admin/class-afrfq-admin.php:116
+msgid "Quote for User Roles"
+msgstr "Preventivo per i ruoli utente"
+
+#: front/class-afrfq-front.php:2159
+msgid "Quote Info:"
+msgstr "Informazioni sulle quotazioni:"
+
+#: admin/class-afrfq-admin.php:95 admin/class-afrfq-admin.php:630
+msgid "Quote Rule for Guest Users"
+msgstr "Regola di preventivo per utenti ospiti"
+
+#: admin/class-afrfq-admin.php:96 admin/class-afrfq-admin.php:628
+msgid "Quote Rule for Registered Users"
+msgstr "Regola di preventivo per utenti registrati"
+
+#: admin/class-afrfq-admin.php:188
+msgid "Quote Rule for Selected Categories"
+msgstr "Regola di preventivo per le categorie selezionate"
+
+#: admin/class-afrfq-admin.php:161
+msgid "Quote Rule for Selected Products"
+msgstr "Regola di preventivo per prodotti selezionati"
+
+#: admin/class-afrfq-admin.php:1831
+msgid "Quote Submitted successfully Message"
+msgstr ""
+"Messaggio inviato con successo\n"
+
+#: front/class-afrfq-front.php:2517 front/class-afrfq-front.php:2640
+msgid "Quotes"
+msgstr "Preventivi"
+
+#: front/class-afrfq-front.php:1919
+msgid "reCaptcha is required!"
+msgstr "reCaptcha è richiesto!"
+
+#: admin/class-afrfq-admin.php:1925
+msgid "Redirect After Quote Submission"
+msgstr ""
+"Reindirizzamento dopo l'invio del preventivo\n"
+
+#: admin/class-afrfq-admin.php:1896
+msgid "Redirect Page Settings"
+msgstr ""
+"Impostazioni pagina di reindirizzamento\n"
+
+#: admin/class-afrfq-admin.php:679
+msgid "Redirect Settings"
+msgstr ""
+"Impostazioni di reindirizzamento\n"
+
+#: admin/class-afrfq-admin.php:1928
+msgid "Redirect to any page after Quote is submitted successfully"
+msgstr ""
+"Reindirizza a qualsiasi pagina dopo che il preventivo è stato inviato con "
+"successo\n"
+
+#: admin/class-afrfq-admin.php:1903
+msgid "Redirect to Quote Page"
+msgstr ""
+"Reindirizza alla pagina del preventivo\n"
+
+#: admin/class-afrfq-admin.php:1906
+msgid "Redirect to Quote page after a product added to Quote successfully."
+msgstr ""
+"Reindirizza alla pagina del preventivo dopo che un prodotto è stato aggiunto "
+"correttamente al preventivo.\n"
+
+#: front/addify_quote_request_page.php:198
+msgid "Remove this item"
+msgstr "Rimuovi questo articolo"
+
+#: admin/class-afrfq-admin.php:465
+msgid "Replace Add to Cart button with a Quote Button"
+msgstr ""
+"Sostituisci il pulsante Aggiungi al carrello con un pulsante Preventivo"
+
+#: admin/class-afrfq-admin.php:473
+msgid "Replace Add to Cart with custom button"
+msgstr "Sostituisci Aggiungi al carrello con il pulsante personalizzato"
+
+#: addify-request-a-quote.php:170
+msgid "Request a Quote"
+msgstr "Richiedi un preventivo"
+
+#. Name of the plugin
+msgid "Request a Quote for WooCommerce"
+msgstr "Richiedi un preventivo per WooCommerce"
+
+#: admin/class-afrfq-admin.php:683 admin/class-afrfq-admin.php:1791
+msgid "Request a Quote Page Settings"
+msgstr ""
+"Richiedi un preventivo Impostazioni pagina\n"
+
+#: front/class-afrfq-front.php:2349
+msgid "Request a quote!"
+msgstr "Richiedi un preventivo!"
+
+#: addify-request-a-quote.php:125 front/class-afrfq-front.php:2381
+msgid "Request for Quote"
+msgstr "Richiesta di preventivo"
+
+#: addify-request-a-quote.php:113
+msgid "Request for Quote Rule"
+msgstr "Richiesta di regole di preventivo"
+
+#: addify-request-a-quote.php:112
+msgid "Request for Quote Rules"
+msgstr "Richiesta di regole di preventivo"
+
+#: addify-request-a-quote.php:169
+msgid "request-a-quote"
+msgstr "Richiedi un preventivo"
+
+#: front/addify_quote_request_page.php:474
+msgid "Return To Shop"
+msgstr "Ritorna al negozio"
+
+#: admin/class-afrfq-admin.php:103
+msgid "Rule Priority"
+msgstr "Priorità alle regole"
+
+#: admin/class-afrfq-admin.php:50
+msgid "Rule Settings"
+msgstr "Impostazioni delle regole"
+
+#: admin/class-afrfq-admin.php:92 admin/class-afrfq-admin.php:616
+msgid "Rule Type"
+msgstr "Tipo di regola"
+
+#: admin/class-afrfq-admin.php:1969
+msgid "Save Settings"
+msgstr "Salva le impostazioni"
+
+#: addify-request-a-quote.php:119
+msgid "Search Rule"
+msgstr "Regola di ricerca"
+
+#: admin/class-afrfq-admin.php:1732
+msgid "Secret Key"
+msgstr "Chiave segreta"
+
+#: admin/class-afrfq-admin.php:706
+msgid ""
+"Select Menu where you want to show Mini Quote Basket. If there is no menu "
+"then you have to create menu in WordPress menus otherwise mini quote basket "
+"will not show."
+msgstr ""
+"Selezionare il menu in cui si desidera mostrare il Mini carrello delle "
+"quotazioni. Se non è presente alcun menu, è necessario creare un menu nei "
+"menu di WordPress, altrimenti il mini cestino dei preventivi non verrà "
+"visualizzato."
+
+#: admin/class-afrfq-admin.php:744
+msgid "Select to show dropdown or icon with number of items in Basket"
+msgstr ""
+"Selezionare per mostrare il menu a discesa o l'icona con il numero di "
+"articoli nel carrello\n"
+
+#: admin/class-afrfq-admin.php:860
+msgid "Send Email to Customer"
+msgstr ""
+"Invia e-mail al cliente\n"
+
+#: admin/class-afrfq-admin.php:640 admin/class-afrfq-admin.php:641
+msgid "Settings"
+msgstr "impostazioni"
+
+#: admin/class-afrfq-admin.php:2144
+msgid "Settings saved successfully."
+msgstr "Impostazioni salvate correttamente."
+
+#: admin/class-afrfq-admin.php:1720
+msgid "Site Key"
+msgstr "Chiave del sito"
+
+#: front/addify_quote_request_page.php:93
+#: front/addify_quote_request_page.php:279 front/class-afrfq-front.php:2169
+#: front/class-afrfq-front.php:2675
+msgid "SKU"
+msgstr "SKU"
+
+#: front/class-afrfq-front.php:1721
+msgid "Sorry, your nonce did not verify."
+msgstr "Spiacenti, il tuo nonce non è verificato."
+
+#: admin/class-afrfq-admin.php:962 admin/class-afrfq-admin.php:1048
+#: admin/class-afrfq-admin.php:1133 admin/class-afrfq-admin.php:1219
+#: admin/class-afrfq-admin.php:1307 admin/class-afrfq-admin.php:1405
+#: admin/class-afrfq-admin.php:1493 admin/class-afrfq-admin.php:1580
+#: admin/class-afrfq-admin.php:1667
+msgid "Sort Order"
+msgstr "Ordinamento"
+
+#: admin/class-afrfq-admin.php:1498
+msgid "Sort Order of the Additional Field 1 field."
+msgstr "Ordinamento del campo Campo aggiuntivo 1."
+
+#: admin/class-afrfq-admin.php:1585
+msgid "Sort Order of the Additional Field 2 field."
+msgstr "Ordinamento del campo Campo aggiuntivo 2."
+
+#: admin/class-afrfq-admin.php:1672
+msgid "Sort Order of the Additional Field 3 field."
+msgstr "Ordinamento del campo Campo aggiuntivo 3."
+
+#: admin/class-afrfq-admin.php:1138
+msgid "Sort Order of the Company field."
+msgstr "Ordinamento del campo Azienda."
+
+#: admin/class-afrfq-admin.php:1053
+msgid "Sort Order of the Email field."
+msgstr "Ordinamento del campo Email."
+
+#: admin/class-afrfq-admin.php:1312
+msgid "Sort Order of the File/Image Upload field."
+msgstr "Ordinamento del campo Caricamento file / immagini."
+
+#: admin/class-afrfq-admin.php:1410
+msgid "Sort Order of the Message field."
+msgstr "Ordinamento del campo Messaggio."
+
+#: admin/class-afrfq-admin.php:967
+msgid "Sort Order of the Name field."
+msgstr "Ordinamento del campo Nome."
+
+#: admin/class-afrfq-admin.php:1224
+msgid "Sort Order of the Phone field."
+msgstr "Ordinamento del campo Telefono."
+
+#: admin/class-afrfq-admin.php:904
+msgid "Standard Fields"
+msgstr "Campi standard"
+
+#: front/addify_quote_request_page.php:463
+msgid "Submit"
+msgstr "Invia"
+
+#: admin/class-afrfq-admin.php:1737
+msgid ""
+"This is Google reCaptcha secret key, you can get this from google. Without "
+"this key google reCaptcha will not work."
+msgstr ""
+"Questa è la chiave segreta di Google reCaptcha, puoi ottenerla da Google. "
+"Senza questa chiave, Google reCaptcha non funzionerà."
+
+#: admin/class-afrfq-admin.php:1725
+msgid ""
+"This is Google reCaptcha site key, you can get this from google. Without "
+"this key google reCaptcha will not work."
+msgstr ""
+"Questa è la chiave del sito di Google reCaptcha, puoi ottenerla da Google. "
+"Senza questa chiave, Google reCaptcha non funzionerà."
+
+#: admin/class-afrfq-admin.php:1834
+msgid ""
+"This message will appear on quote submission page, when user submit quote."
+msgstr ""
+"Questo messaggio verrà visualizzato nella pagina di invio del preventivo, "
+"quando l'utente invia il preventivo."
+
+#: admin/class-afrfq-admin.php:1855
+msgid "This message will appear when a product is added to quote basket"
+msgstr ""
+"Questo messaggio apparirà quando un prodotto viene aggiunto al carrello dei "
+"preventivi\n"
+
+#: admin/class-afrfq-admin.php:813
+msgid ""
+"This subject will be used when email is sent to user when quote is submitted."
+msgstr ""
+"Questo argomento verrà utilizzato quando l'e-mail viene inviata all'utente "
+"al momento della presentazione del preventivo."
+
+#: admin/class-afrfq-admin.php:1876
+msgid "This text will be shown for View Quote Basket Button"
+msgstr ""
+"Questo testo verrà mostrato per il pulsante Visualizza cestino\n"
+
+#: admin/class-afrfq-admin.php:834
+msgid ""
+"This text will be used when email is sent to user when quote is submitted."
+msgstr ""
+"Questo testo verrà utilizzato quando l'e-mail viene inviata all'utente al "
+"momento dell'invio del preventivo."
+
+#: admin/class-afrfq-admin.php:1947
+msgid "URL of Page to Redirect after Quote Submission"
+msgstr ""
+"URL della pagina da reindirizzare dopo l'invio del preventivo\n"
+
+#: admin/class-afrfq-admin.php:1950
+msgid "URL to Redirect after quote is submitted successfully"
+msgstr ""
+"URL da reindirizzare dopo che il preventivo è stato inviato correttamente\n"
+
+#: front/class-afrfq-front.php:2841 admin/class-afrfq-admin.php:2186
+msgid "View"
+msgstr "Visualizza"
+
+#: admin/addify-afrfq-edit-form.php:19
+msgid "View Quote"
+msgstr "Vedi preventivo"
+
+#: admin/class-afrfq-admin.php:1873
+msgid "View Quote Basket Button Text"
+msgstr ""
+"Visualizza testo pulsante cestino preventivo\n"
+
+#: addify-request-a-quote.php:118
+msgid "View Rule"
+msgstr "Visualizza regola"
+
+#: admin/class-afrfq-admin.php:2186
+msgid "View this item"
+msgstr "Visualizza questo articolo"
+
+#: admin/class-afrfq-admin.php:430
+msgid "Yes"
+msgstr "Sì"
+
+#: front/class-afrfq-front.php:2338
+msgid "You have recieved a new quote request."
+msgstr "Hai ricevuto una nuova richiesta di preventivo."
+
+#: front/addify_quote_request_page.php:473
+msgid "Your quote is currently empty."
+msgstr "Il tuo preventivo è attualmente vuoto."

@@ -1,0 +1,67 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1" display-as-translated="1">addify_rfq</custom-type>
+    <custom-type translate="1" display-as-translated="1">addify_rfq_fields</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="translate">afrfq_hide_price_text</custom-field>
+    <custom-field action="translate">afrfq_is_hide_addtocart</custom-field>
+    <custom-field action="translate">afrfq_custom_button_text</custom-field>
+    <custom-field action="translate">quote_messsage</custom-field>
+    <custom-field action="translate">afrfq_name_field</custom-field>
+    <custom-field action="translate">afrfq_message_field</custom-field>
+    <custom-field action="translate">quote_status</custom-field>
+    <custom-field action="translate">afrfq_company_field</custom-field>
+    <custom-field action="translate">afrfq_field_placeholder</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="afrfq_email_heading"/>
+    <key name="afrfq_email_subject"/>
+    <key name="afrfq_email_text"/>
+    <key name="afrfq_emails">
+      <key name="af_admin">
+        <key name="subject"/>
+        <key name="heading"/>
+        <key name="message"/>
+      </key>
+      <key name="af_pending">
+        <key name="subject"/>
+        <key name="heading"/>
+        <key name="message"/>
+      </key>
+      <key name="af_in_process">
+        <key name="subject"/>
+        <key name="heading"/>
+        <key name="message"/>
+      </key>
+      <key name="af_accepted">
+        <key name="subject"/>
+        <key name="heading"/>
+        <key name="message"/>
+      </key>
+      <key name="af_admin_conv">
+        <key name="subject"/>
+        <key name="heading"/>
+        <key name="message"/>
+      </key>
+      <key name="af_converted">
+        <key name="subject"/>
+        <key name="heading"/>
+        <key name="message"/>
+      </key>
+      <key name="af_declined">
+        <key name="subject"/>
+        <key name="heading"/>
+        <key name="message"/>
+      </key>
+      <key name="af_cancelled">
+        <key name="subject"/>
+        <key name="heading"/>
+        <key name="message"/>
+      </key>
+    </key>
+    <key name="afrfq_pro_success_message"/>
+    <key name="afrfq_success_message"/>
+    <key name="afrfq_view_button_message"/>
+  </admin-texts>
+</wpml-config>
